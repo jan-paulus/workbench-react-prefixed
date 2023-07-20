@@ -9,7 +9,6 @@ export const Wb360Viewer = /*@__PURE__*/createReactComponent<JSX.Wb360Viewer, HT
 export const WbAccordion = /*@__PURE__*/createReactComponent<JSX.WbAccordion, HTMLWbAccordionElement>('wb7-accordion');
 export const WbAccordionItem = /*@__PURE__*/createReactComponent<JSX.WbAccordionItem, HTMLWbAccordionItemElement>('wb7-accordion-item');
 export const WbAspectRatio = /*@__PURE__*/createReactComponent<JSX.WbAspectRatio, HTMLWbAspectRatioElement>('wb7-aspect-ratio');
-export const WbAvatar = /*@__PURE__*/createReactComponent<JSX.WbAvatar, HTMLWbAvatarElement>('wb7-avatar');
 export const WbBadge = /*@__PURE__*/createReactComponent<JSX.WbBadge, HTMLWbBadgeElement>('wb7-badge');
 export const WbBannerTeaser = /*@__PURE__*/createReactComponent<JSX.WbBannerTeaser, HTMLWbBannerTeaserElement>('wb7-banner-teaser');
 export const WbBarLoader = /*@__PURE__*/createReactComponent<JSX.WbBarLoader, HTMLWbBarLoaderElement>('wb7-bar-loader');
